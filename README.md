@@ -1,6 +1,6 @@
 # metalDetector
 Authors: 
-Søren Møller Christensen 
+Søren Møller Christensen &
 Nicklas Stubkjær Holm
 
 main file is main.c
